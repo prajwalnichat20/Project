@@ -33,5 +33,7 @@ public class Sorting {
 
 		List<Integer> remdup = li.stream().distinct().collect(Collectors.toList());
 		System.out.println(remdup);
+		
+		// By prajwal
 	}
 }
